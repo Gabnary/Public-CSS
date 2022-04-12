@@ -1,0 +1,15 @@
+
+/* Changes Video Background */
+.bc-iframe, 
+.bc-iframe body, 
+.bc-player-3jDV7NfOA_default, 
+.bc-player-3jDV7NfOA_default .vjs-poster {
+    background-color: transparent;
+}
+
+/* Border Coloring */
+.video-js {
+    border-style: double;
+    border-width: thick;
+    border-color: red;
+  }
