@@ -1,5 +1,5 @@
 .vjs-poster {
-  background-image: url("https://cdn.encoreglobal.com/wp-content/uploads/sites/3/2020/07/29010553/Encore-Logo_Horiz-1.png");
+  background-image: url(https://cdn.encoreglobal.com/wp-content/uploads/sites/3/2020/07/29010553/Encore-Logo_Horiz-1.png);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: 300px;
