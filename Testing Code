@@ -2,7 +2,8 @@
   background: url(https://cdn.encoreglobal.com/wp-content/uploads/sites/3/2020/07/29010553/Encore-Logo_Horiz-1.png) !important;
   background-repeat: no-repeat;
   background-position: center top;
-  background-size: 300px;
+  background-size: 100px !important;
+  width: 100px !important;
   animation-name: spin;
   animation-duration: 5000ms;
   animation-iteration-count: infinite;
