@@ -1,12 +1,4 @@
 /* Border Coloring */
   .video-js {
-    border: 5px inset #1d1645;
+    border: 5px inset #503dbf;
   }
-  
-/* Changes Video Background */
-.bc-iframe, 
-.bc-iframe body, 
-.bc-player-3jDV7NfOA_default, 
-.bc-player-3jDV7NfOA_default .vjs-poster {
-    background-color: red;
-}
