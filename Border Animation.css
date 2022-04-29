@@ -6,23 +6,30 @@
     background-color: transparent;
 }
 
-.video-js{
-	width: 300px; height: 200px;
-	background-color: #DDFFF7;
-	position: relative;
-	box-shadow: 10px 10px 42px 0 rgba(0,0,0,0.75);
+.video-js .vjs-tech {
+    position: absolute;
+    top: 5%;
+    left: 0%;
+    width: 100%;
+    height: 90%;
+    z-index: 0;
 }
+
+.video-js{
+	border: 5px ridge #00bcd4;
+}
+
 .video-js:after, .video-js:before{
 	mix-blend-mode:multiply;
 	filter:none;
 	z-index: -1;
 	content:'';
-	width:calc(100% + (50px * 2));
-	height:calc(100% + (50px * 2));
+	width:calc(100% + (0px * 2));
+	height:calc(100% + (0px * 2));
 	position: absolute;
 	display: block;
 	animation: border 10s ease-in-out infinite;
-	transform:translateX(-50px) translateY(-50px);
+	/* transform:translateX(-50px) translateY(-50px); */
 }
 @keyframes border {
   0%, 100% {
