@@ -3,7 +3,7 @@
 .bc-iframe body, 
 .bc-player-3jDV7NfOA_default, 
 .bc-player-3jDV7NfOA_default .vjs-poster {
-    background-color: transparent;
+    background-color: transparent !important;
 }
 
 .bc-player-qgCCDFC0rs_default.vjs-fullscreen, .bc-player-qgCCDFC0rs_default.vjs-fullscreen .vjs-tech {
