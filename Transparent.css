@@ -1,7 +1,7 @@
-/* Changes Video Background */
-.bc-iframe, 
-.bc-iframe body, 
-.bc-player-3jDV7NfOA_default, 
-.bc-player-3jDV7NfOA_default .vjs-poster {
-    background-color: #151b1700 !important;
+/* Iframe background color */
+.bc-iframe,
+.bc-iframe body,
+.bc-player-qgCCDFC0rs_default,
+.bc-player-qgCCDFC0rs_default .vjs-poster {
+  background-color: transparent;
 }
