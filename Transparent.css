@@ -1,0 +1,7 @@
+/* Changes Video Background */
+.bc-iframe, 
+.bc-iframe body, 
+.bc-player-3jDV7NfOA_default, 
+.bc-player-3jDV7NfOA_default .vjs-poster {
+    background-color: transparent !important;
+}
